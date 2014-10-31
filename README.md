@@ -20,14 +20,15 @@ Raum J 2.18
 - Basics 17.10 [Skript](http://hsa-js-ws1415.github.io/vorlesung/2-basics/#1)
 - Prototypes 24.10 [Skript](http://hsa-js-ws1415.github.io/vorlesung/3-prototypes/#1)
 - Callbacks 24.10 [Skript](http://hsa-js-ws1415.github.io/vorlesung/4-callbacks/#1)
-- Promises 31.10
-- Modules 31.10
+- Promises 31.10 [Skript](http://hsa-js-ws1415.github.io/vorlesung/5-promises#1)
+- Modules 31.10 [Skript](http://hsa-js-ws1415.github.io/vorlesung/6-modules/#1)
 - DOM 28.11
 - Harmony (ECMAScript 6) 5.12
 
 ## Aufgaben
 
 - [Aufgabe 1](https://github.com/hsa-js-ws1415/aufgaben/tree/master/aufgabe-1)
+- [Aufgabe 2](https://github.com/hsa-js-ws1415/aufgaben/tree/master/aufgabe-2)
 
 ## IDE
 
@@ -49,25 +50,15 @@ Raum J 2.18
 
 ## Git
 
-### [GitHub for Windows](https://windows.github.com/)
+### [SourceTree](http://www.sourcetreeapp.com/)
 
-- Grafische Oberfläche für Git, um GitHub-Repositories zu klonen
-- Benötigt GitHub Account
-
-### [GitHub for Mac](https://mac.github.com/)
-
-- Grafische Oberfläche für Git, um GitHub-Repositories zu klonen
-- Benötigt GitHub Account
+- Git-GUI für alle Platformen (Win, OSX, Linux)
 
 ### [Git](http://git-scm.com/downloads)
 
 - Git Client für alle Platformen (Win, OSX, Linux)
 - [Set up git](https://help.github.com/articles/set-up-git)
 - `git clone <repo url>`
-
-### [SourceTree](http://www.sourcetreeapp.com/)
-
-- Git-GUI für alle Platformen (Win, OSX, Linux)
 
 ## Tutorials
 

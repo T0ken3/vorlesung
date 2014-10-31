@@ -56,7 +56,6 @@ describe("prototypes", function () {
             godzilla2 = new Godzilla();
             /* END */
 
-
             expect(godzilla1).to.be.an.instanceof(Godzilla);
             expect(godzilla1.victims).to.equal(godzilla2.victims);
         });
